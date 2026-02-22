@@ -1,6 +1,8 @@
 # FOID — Fast Output Info Display
 
 > Monitor de sistema en tiempo real para la terminal. Más bonito que `htop`, más información que `btop`.
+> <img width="1920" height="1049" alt="imagen" src="https://github.com/user-attachments/assets/8dfb93b7-4855-42eb-b067-741b0a874e47" />
+
 
 ---
 
