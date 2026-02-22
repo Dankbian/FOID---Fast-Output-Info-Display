@@ -59,7 +59,7 @@ Sal del programa con `Ctrl+C`. FOID mostrará un mensaje de despedida y cerrará
 
 ---
 
-## 🖥 Paneles del dashboard
+##  Paneles del dashboard
 
 | Panel | Descripción |
 |---|---|
@@ -74,7 +74,7 @@ Sal del programa con `Ctrl+C`. FOID mostrará un mensaje de despedida y cerrará
 
 ---
 
-## ⚙️ Configuración
+##  Configuración
 
 Al inicio de `monitor.py` puedes ajustar estas variables:
 
@@ -85,7 +85,7 @@ HISTORIAL_MAX = 40                   # Puntos del historial para sparklines
 
 ---
 
-## 🔍 Diferencias con htop / btop
+##  Diferencias con htop / btop
 
 | Característica | htop | btop | **FOID** |
 |---|:---:|:---:|:---:|
